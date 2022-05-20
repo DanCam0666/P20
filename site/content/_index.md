@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Paralelo 20 Grill Club"
+title: "Paralelo 20 Grill Club"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/grill-smoke-box.jpg
 blurb:
