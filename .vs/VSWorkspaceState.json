@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.dependabot",
+    "\\site",
+    "\\site\\content",
+    "\\site\\content\\products"
   ],
-  "SelectedNode": "\\C:\\Users\\dcamacho\\Source\\Repos\\p20",
+  "SelectedNode": "\\site\\content\\products\\_index.md",
   "PreviewInSolutionExplorer": false
 }

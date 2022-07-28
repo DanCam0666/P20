@@ -1,6 +1,6 @@
 ---
 title: "Paralelo 20 Grill Club"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: More than 80 years of combined grilling/smoking.
 image: /img/grill-smoke-box.jpg
 blurb:
     heading: Why Kaldi?
