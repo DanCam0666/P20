@@ -3,8 +3,8 @@ title: "Paralelo 20 Grill Club"
 subtitle: More than 80 years of combined grilling/smoking.
 image: /img/grill-smoke-box.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Who is Paralelo 20?
+    text: "Paralelo 20 Grill Club, a group of skilled individuals with over 80 years of combined experience in the art of grilling and smoking. This exceptional club has made a name for itself by participating in various grill competitions, earning a few coveted spots in the top 10. Moreover, they have also utilized their talent for a good cause, providing grilling benefits for charity events."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
