@@ -1,9 +1,8 @@
 ---
-title: Paralelo 20 Grill Club: A Hub for Grill Enthusiasts and Community Support
-date: 2024-01-29T10:00:00.000Z
-description: >
-  Paralelo 20 Grill Club is not just about grilling; it's a community-oriented hub where grill masters and enthusiasts come together for a cause. Regular participants in the Grill Master HEB National Competition in Monterrey, Mexico, we also dedicate our skills to supporting local firefighters through benefit events.
-image: /img/blog-grillclub.jpg
+title: "Paralelo 20 Grill Club: A Hub for Grill Enthusiasts and Community Support"
+date: "2024-01-29T10:00:00.000Z"
+description: "Paralelo 20 Grill Club is not just about grilling; it's a community-oriented hub where grill masters and enthusiasts come together for a cause. Regular participants in the Grill Master HEB National Competition in Monterrey, Mexico, we also dedicate our skills to supporting local firefighters through benefit events."
+image: "/img/blog-grillclub.jpg"
 ---
 
 This [month](/events), Paralelo 20 Grill Club is excited to share some great news and upcoming events that reflect our passion for grilling and community service. Known for our expertise in grilling, we're proud to be regular contenders in the prestigious Grill Master HEB National Competition held annually in Monterrey, Mexico. This competition draws grill masters from all over the nation, and we’re thrilled to be a part of it, showcasing our skills and unique grilling techniques.
