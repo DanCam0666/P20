@@ -22,5 +22,3 @@ Our team at Paralelo 20 Grill Club has always been passionate about grilling. He
 
 Our journey in the grilling world goes beyond competitions; it’s about bringing people together, sharing our expertise, and making a positive impact in our community. Stay tuned for more updates on our events, and feel free to join us in our next big adventure!
 
-Please write in English language.
-
