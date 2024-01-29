@@ -1,26 +1,27 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
-image: /img/blog-chemex.jpg
+title: Paralelo 20 Grill Club: A Hub for Grill Enthusiasts and Community Support
+date: 2024-01-29T10:00:00.000Z
+description: >
+  Paralelo 20 Grill Club is not just about grilling; it's a community-oriented hub where grill masters and enthusiasts come together for a cause. Regular participants in the Grill Master HEB National Competition in Monterrey, Mexico, we also dedicate our skills to supporting local firefighters through benefit events.
+image: /img/blog-grillclub.jpg
 ---
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+This [month](/events), Paralelo 20 Grill Club is excited to share some great news and upcoming events that reflect our passion for grilling and community service. Known for our expertise in grilling, we're proud to be regular contenders in the prestigious Grill Master HEB National Competition held annually in Monterrey, Mexico. This competition draws grill masters from all over the nation, and we’re thrilled to be a part of it, showcasing our skills and unique grilling techniques.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+## Supporting Our Local Heroes: Firefighters' Benefit Event
 
-## The little secrets of Chemex brewing
+One of our core values at Paralelo 20 Grill Club is giving back to the community. This year, we're honored to assist in organizing a benefit event for our local firefighters. The event will feature a variety of grilled delicacies prepared by our expert grill masters, and all proceeds will go towards supporting the brave men and women who keep our community safe. It's a great way for us to combine our love for grilling with a noble cause.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+### What Makes Us Stand Out in Grill Competitions
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Our team at Paralelo 20 Grill Club has always been passionate about grilling. Here’s what makes us special:
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+1. **Innovative Grilling Techniques:** We're always experimenting with new methods and flavors to create the best grilled dishes.
+2. **Community Focus:** Every event and competition we participate in has a community angle, ensuring we give back with every sizzle and steak.
+3. **Passion for Excellence:** From selecting the finest cuts of meat to perfecting our grilling times, we aim for perfection in every detail.
+4. **Team Spirit:** Our club is more than a group of individuals; it's a family that shares a love for grilling and community service.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Our journey in the grilling world goes beyond competitions; it’s about bringing people together, sharing our expertise, and making a positive impact in our community. Stay tuned for more updates on our events, and feel free to join us in our next big adventure!
+
+Please write in English language.
+
